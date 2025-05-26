@@ -183,7 +183,7 @@ Visualizations are saved in `data/results/[scenario-name]/*.png`.
 
 ## 🧾 Authors & Contact
 
-GridSight AI Team  
+Karthikeya Gummadi 
 📧 `gummadikarthikeya3@gmail.com`  
 🧠 Patent pending  
 🔬 Research paper in progress
