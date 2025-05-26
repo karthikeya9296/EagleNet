@@ -1,0 +1,464 @@
+[
+  {
+    "step": 0,
+    "car_id": 0,
+    "x": 1,
+    "y": 8,
+    "confidence": 0.8
+  },
+  {
+    "step": 0,
+    "car_id": 0,
+    "x": 2,
+    "y": 2,
+    "confidence": 0.94
+  },
+  {
+    "step": 0,
+    "car_id": 0,
+    "x": 5,
+    "y": 5,
+    "confidence": 0.78
+  },
+  {
+    "step": 0,
+    "car_id": 0,
+    "x": 7,
+    "y": 3,
+    "confidence": 0.85
+  },
+  {
+    "step": 1,
+    "car_id": 0,
+    "x": 9,
+    "y": 6,
+    "confidence": 0.85
+  },
+  {
+    "step": 2,
+    "car_id": 0,
+    "x": 0,
+    "y": 5,
+    "confidence": 0.78
+  },
+  {
+    "step": 10,
+    "car_id": 1,
+    "x": 7,
+    "y": 4,
+    "confidence": 0.97
+  },
+  {
+    "step": 13,
+    "car_id": 1,
+    "x": 3,
+    "y": 6,
+    "confidence": 0.87
+  },
+  {
+    "step": 14,
+    "car_id": 0,
+    "x": 6,
+    "y": 1,
+    "confidence": 0.81
+  },
+  {
+    "step": 18,
+    "car_id": 0,
+    "x": 9,
+    "y": 8,
+    "confidence": 0.93
+  },
+  {
+    "step": 21,
+    "car_id": 3,
+    "x": 4,
+    "y": 5,
+    "confidence": 0.9
+  },
+  {
+    "step": 26,
+    "car_id": 1,
+    "x": 4,
+    "y": 3,
+    "confidence": 0.78
+  },
+  {
+    "step": 39,
+    "car_id": 0,
+    "x": 5,
+    "y": 1,
+    "confidence": 0.91
+  },
+  {
+    "step": 41,
+    "car_id": 0,
+    "x": 5,
+    "y": 4,
+    "confidence": 0.78
+  },
+  {
+    "step": 43,
+    "car_id": 0,
+    "x": 2,
+    "y": 8,
+    "confidence": 0.8
+  },
+  {
+    "step": 49,
+    "car_id": 1,
+    "x": 4,
+    "y": 8,
+    "confidence": 0.91
+  },
+  {
+    "step": 50,
+    "car_id": 1,
+    "x": 9,
+    "y": 9,
+    "confidence": 0.83
+  },
+  {
+    "step": 53,
+    "car_id": 1,
+    "x": 5,
+    "y": 7,
+    "confidence": 0.88
+  },
+  {
+    "step": 64,
+    "car_id": 0,
+    "x": 1,
+    "y": 9,
+    "confidence": 0.84
+  },
+  {
+    "step": 67,
+    "car_id": 0,
+    "x": 2,
+    "y": 1,
+    "confidence": 0.94
+  },
+  {
+    "step": 76,
+    "car_id": 1,
+    "x": 8,
+    "y": 4,
+    "confidence": 0.98
+  },
+  {
+    "step": 96,
+    "car_id": 0,
+    "x": 3,
+    "y": 8,
+    "confidence": 0.95
+  },
+  {
+    "step": 98,
+    "car_id": 0,
+    "x": 5,
+    "y": 0,
+    "confidence": 0.74
+  },
+  {
+    "step": 99,
+    "car_id": 0,
+    "x": 7,
+    "y": 7,
+    "confidence": 0.91
+  },
+  {
+    "step": 102,
+    "car_id": 0,
+    "x": 0,
+    "y": 7,
+    "confidence": 0.9
+  },
+  {
+    "step": 117,
+    "car_id": 0,
+    "x": 8,
+    "y": 1,
+    "confidence": 0.96
+  },
+  {
+    "step": 124,
+    "car_id": 0,
+    "x": 6,
+    "y": 4,
+    "confidence": 0.89
+  },
+  {
+    "step": 125,
+    "car_id": 0,
+    "x": 7,
+    "y": 8,
+    "confidence": 0.88
+  },
+  {
+    "step": 131,
+    "car_id": 0,
+    "x": 9,
+    "y": 5,
+    "confidence": 0.72
+  },
+  {
+    "step": 132,
+    "car_id": 0,
+    "x": 2,
+    "y": 5,
+    "confidence": 0.83
+  },
+  {
+    "step": 136,
+    "car_id": 0,
+    "x": 6,
+    "y": 2,
+    "confidence": 0.91
+  },
+  {
+    "step": 145,
+    "car_id": 0,
+    "x": 4,
+    "y": 9,
+    "confidence": 0.97
+  },
+  {
+    "step": 150,
+    "car_id": 1,
+    "x": 6,
+    "y": 5,
+    "confidence": 0.77
+  },
+  {
+    "step": 152,
+    "car_id": 0,
+    "x": 2,
+    "y": 6,
+    "confidence": 0.97
+  },
+  {
+    "step": 154,
+    "car_id": 0,
+    "x": 8,
+    "y": 3,
+    "confidence": 0.97
+  },
+  {
+    "step": 165,
+    "car_id": 0,
+    "x": 1,
+    "y": 5,
+    "confidence": 0.71
+  },
+  {
+    "step": 175,
+    "car_id": 2,
+    "x": 1,
+    "y": 6,
+    "confidence": 0.87
+  },
+  {
+    "step": 180,
+    "car_id": 0,
+    "x": 9,
+    "y": 7,
+    "confidence": 0.95
+  },
+  {
+    "step": 182,
+    "car_id": 0,
+    "x": 0,
+    "y": 1,
+    "confidence": 0.87
+  },
+  {
+    "step": 185,
+    "car_id": 0,
+    "x": 9,
+    "y": 0,
+    "confidence": 0.95
+  },
+  {
+    "step": 187,
+    "car_id": 1,
+    "x": 8,
+    "y": 0,
+    "confidence": 0.74
+  },
+  {
+    "step": 202,
+    "car_id": 2,
+    "x": 0,
+    "y": 8,
+    "confidence": 0.78
+  },
+  {
+    "step": 206,
+    "car_id": 0,
+    "x": 0,
+    "y": 4,
+    "confidence": 0.78
+  },
+  {
+    "step": 233,
+    "car_id": 0,
+    "x": 9,
+    "y": 4,
+    "confidence": 0.89
+  },
+  {
+    "step": 249,
+    "car_id": 0,
+    "x": 4,
+    "y": 4,
+    "confidence": 0.82
+  },
+  {
+    "step": 274,
+    "car_id": 0,
+    "x": 4,
+    "y": 6,
+    "confidence": 0.86
+  },
+  {
+    "step": 289,
+    "car_id": 1,
+    "x": 4,
+    "y": 2,
+    "confidence": 0.71
+  },
+  {
+    "step": 302,
+    "car_id": 0,
+    "x": 9,
+    "y": 1,
+    "confidence": 0.82
+  },
+  {
+    "step": 320,
+    "car_id": 1,
+    "x": 5,
+    "y": 9,
+    "confidence": 0.76
+  },
+  {
+    "step": 345,
+    "car_id": 1,
+    "x": 3,
+    "y": 5,
+    "confidence": 0.89
+  },
+  {
+    "step": 353,
+    "car_id": 3,
+    "x": 1,
+    "y": 2,
+    "confidence": 0.72
+  },
+  {
+    "step": 354,
+    "car_id": 0,
+    "x": 1,
+    "y": 1,
+    "confidence": 0.91
+  },
+  {
+    "step": 355,
+    "car_id": 0,
+    "x": 6,
+    "y": 9,
+    "confidence": 0.73
+  },
+  {
+    "step": 372,
+    "car_id": 1,
+    "x": 8,
+    "y": 7,
+    "confidence": 0.88
+  },
+  {
+    "step": 374,
+    "car_id": 1,
+    "x": 1,
+    "y": 0,
+    "confidence": 0.9
+  },
+  {
+    "step": 377,
+    "car_id": 0,
+    "x": 3,
+    "y": 7,
+    "confidence": 0.87
+  },
+  {
+    "step": 383,
+    "car_id": 0,
+    "x": 3,
+    "y": 0,
+    "confidence": 0.9
+  },
+  {
+    "step": 385,
+    "car_id": 0,
+    "x": 2,
+    "y": 7,
+    "confidence": 0.94
+  },
+  {
+    "step": 408,
+    "car_id": 0,
+    "x": 7,
+    "y": 5,
+    "confidence": 0.94
+  },
+  {
+    "step": 420,
+    "car_id": 1,
+    "x": 5,
+    "y": 2,
+    "confidence": 0.97
+  },
+  {
+    "step": 421,
+    "car_id": 0,
+    "x": 3,
+    "y": 2,
+    "confidence": 0.76
+  },
+  {
+    "step": 434,
+    "car_id": 1,
+    "x": 7,
+    "y": 9,
+    "confidence": 0.86
+  },
+  {
+    "step": 450,
+    "car_id": 0,
+    "x": 8,
+    "y": 8,
+    "confidence": 0.96
+  },
+  {
+    "step": 488,
+    "car_id": 2,
+    "x": 6,
+    "y": 8,
+    "confidence": 0.94
+  },
+  {
+    "step": 493,
+    "car_id": 0,
+    "x": 3,
+    "y": 4,
+    "confidence": 0.77
+  },
+  {
+    "step": 496,
+    "car_id": 0,
+    "x": 7,
+    "y": 2,
+    "confidence": 0.86
+  }
+]

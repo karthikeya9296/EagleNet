@@ -1,0 +1,188 @@
+.
+├── car.py
+├── config.py
+├── data
+│   ├── logs
+│   │   ├── convoy-mode
+│   │   │   ├── car_detection_count.csv
+│   │   │   ├── detection_density.csv
+│   │   │   ├── detections.csv
+│   │   │   ├── detections.json
+│   │   │   ├── hazard_reception_counts.csv
+│   │   │   ├── intelligence_scores.csv
+│   │   │   ├── received.csv
+│   │   │   ├── satellite_info.csv
+│   │   │   └── satellite_info.json
+│   │   ├── drone-car-sync
+│   │   │   ├── car_detection_count.csv
+│   │   │   ├── detection_density.csv
+│   │   │   ├── detections.csv
+│   │   │   ├── detections.json
+│   │   │   ├── hazard_reception_counts.csv
+│   │   │   ├── intelligence_scores.csv
+│   │   │   ├── received.csv
+│   │   │   ├── satellite_info.csv
+│   │   │   └── satellite_info.json
+│   │   ├── emergency-clear
+│   │   │   ├── car_detection_count.csv
+│   │   │   ├── detection_density.csv
+│   │   │   ├── detections.csv
+│   │   │   ├── detections.json
+│   │   │   ├── hazard_reception_counts.csv
+│   │   │   ├── intelligence_scores.csv
+│   │   │   ├── received.csv
+│   │   │   ├── satellite_info.csv
+│   │   │   └── satellite_info.json
+│   │   ├── grid-failure-rerouting
+│   │   │   ├── car_detection_count.csv
+│   │   │   ├── detection_density.csv
+│   │   │   ├── detections.csv
+│   │   │   ├── detections.json
+│   │   │   ├── hazard_reception_counts.csv
+│   │   │   ├── intelligence_scores.csv
+│   │   │   ├── received.csv
+│   │   │   ├── satellite_info.csv
+│   │   │   └── satellite_info.json
+│   │   ├── gridlock-prevention
+│   │   │   ├── car_detection_count.csv
+│   │   │   ├── detection_density.csv
+│   │   │   ├── detections.csv
+│   │   │   ├── detections.json
+│   │   │   ├── hazard_reception_counts.csv
+│   │   │   ├── intelligence_scores.csv
+│   │   │   ├── received.csv
+│   │   │   ├── satellite_info.csv
+│   │   │   └── satellite_info.json
+│   │   ├── pedestrian-edge-awareness
+│   │   │   ├── car_detection_count.csv
+│   │   │   ├── detection_density.csv
+│   │   │   ├── detections.csv
+│   │   │   ├── detections.json
+│   │   │   ├── hazard_reception_counts.csv
+│   │   │   ├── intelligence_scores.csv
+│   │   │   ├── received.csv
+│   │   │   ├── satellite_info.csv
+│   │   │   └── satellite_info.json
+│   │   ├── pothole-mapping
+│   │   │   ├── car_detection_count.csv
+│   │   │   ├── detection_density.csv
+│   │   │   ├── detections.csv
+│   │   │   ├── detections.json
+│   │   │   ├── hazard_reception_counts.csv
+│   │   │   ├── intelligence_scores.csv
+│   │   │   ├── received.csv
+│   │   │   ├── satellite_info.csv
+│   │   │   └── satellite_info.json
+│   │   ├── satellite-alerts
+│   │   │   ├── car_detection_count.csv
+│   │   │   ├── detection_density.csv
+│   │   │   ├── detections.csv
+│   │   │   ├── detections.json
+│   │   │   ├── hazard_reception_counts.csv
+│   │   │   ├── intelligence_scores.csv
+│   │   │   ├── received.csv
+│   │   │   ├── satellite_info.csv
+│   │   │   └── satellite_info.json
+│   │   ├── shared-vision
+│   │   │   ├── car_detection_count.csv
+│   │   │   ├── detection_density.csv
+│   │   │   ├── detections.csv
+│   │   │   ├── detections.json
+│   │   │   ├── hazard_reception_counts.csv
+│   │   │   ├── intelligence_scores.csv
+│   │   │   ├── received.csv
+│   │   │   ├── satellite_info.csv
+│   │   │   └── satellite_info.json
+│   │   └── vision-blackout-recovery
+│   │       ├── car_detection_count.csv
+│   │       ├── detection_density.csv
+│   │       ├── detections.csv
+│   │       ├── detections.json
+│   │       ├── hazard_reception_counts.csv
+│   │       ├── intelligence_scores.csv
+│   │       ├── received.csv
+│   │       ├── satellite_info.csv
+│   │       └── satellite_info.json
+│   ├── results
+│   │   ├── convoy-mode
+│   │   │   ├── hazard_detections.png
+│   │   │   ├── intelligence_scores.png
+│   │   │   ├── reception_counts.png
+│   │   │   ├── satellite_insight.png
+│   │   │   └── shared_vision.png
+│   │   ├── drone-car-sync
+│   │   │   ├── hazard_detections.png
+│   │   │   ├── intelligence_scores.png
+│   │   │   ├── reception_counts.png
+│   │   │   ├── satellite_insight.png
+│   │   │   └── shared_vision.png
+│   │   ├── emergency-clear
+│   │   │   ├── hazard_detections.png
+│   │   │   ├── intelligence_scores.png
+│   │   │   ├── reception_counts.png
+│   │   │   ├── satellite_insight.png
+│   │   │   └── shared_vision.png
+│   │   ├── grid-failure-rerouting
+│   │   │   ├── hazard_detections.png
+│   │   │   ├── intelligence_scores.png
+│   │   │   ├── reception_counts.png
+│   │   │   ├── satellite_insight.png
+│   │   │   └── shared_vision.png
+│   │   ├── gridlock-prevention
+│   │   │   ├── hazard_detections.png
+│   │   │   ├── intelligence_scores.png
+│   │   │   ├── reception_counts.png
+│   │   │   ├── satellite_insight.png
+│   │   │   └── shared_vision.png
+│   │   ├── pedestrian-edge-awareness
+│   │   │   ├── hazard_detections.png
+│   │   │   ├── intelligence_scores.png
+│   │   │   ├── reception_counts.png
+│   │   │   ├── satellite_insight.png
+│   │   │   └── shared_vision.png
+│   │   ├── pothole-mapping
+│   │   │   ├── hazard_detections.png
+│   │   │   ├── intelligence_scores.png
+│   │   │   ├── reception_counts.png
+│   │   │   ├── satellite_insight.png
+│   │   │   └── shared_vision.png
+│   │   ├── satellite-alerts
+│   │   │   ├── hazard_detections.png
+│   │   │   ├── intelligence_scores.png
+│   │   │   ├── reception_counts.png
+│   │   │   ├── satellite_insight.png
+│   │   │   └── shared_vision.png
+│   │   ├── shared-vision
+│   │   │   ├── hazard_detections.png
+│   │   │   ├── intelligence_scores.png
+│   │   │   ├── reception_counts.png
+│   │   │   ├── satellite_insight.png
+│   │   │   └── shared_vision.png
+│   │   └── vision-blackout-recovery
+│   │       ├── hazard_detections.png
+│   │       ├── intelligence_scores.png
+│   │       ├── reception_counts.png
+│   │       ├── satellite_insight.png
+│   │       └── shared_vision.png
+│   └── snapshots
+├── environment.py
+├── logger.py
+├── README.md
+├── region_manager.py
+├── satellite.py
+├── scenarios
+│   ├── test_convoy_mode.py
+│   ├── test_drone_car_sync.py
+│   ├── test_emergency_clear.py
+│   ├── test_gridlock_prevention.py
+│   ├── test_pedestrian_edge_awareness.py
+│   ├── test_pothole_mapping.py
+│   ├── test_satellite_alerts.py
+│   ├── test_shared_vision.py
+│   └── test_vision_blackout_recovery.py
+├── simulation_run.py
+├── structure.txt
+├── utils.py
+└── visualizer.py
+
+26 directories, 160 files
